@@ -1,4 +1,4 @@
-# CS-340-Client-Server-Developmemt
+# CS-340-Client-Server-Development
 # Final Project
 
 Creating a maintainable; readable; and adaptable program is both a craft and a science. For the Grazioso Salvare Animal Rescue Dashboard, every decision revolved around building a system that could stand the test of time; evolve as needs changed; and be understood by those who inherited it. The CRUD Python module from Project One was a cornerstone of this philosophy. By encapsulating database operations; Create, Read, Update, and Delete; into a single, reusable module, the code became not just functional but a model of efficiency. This modularity meant that in Project Two, integrating the CRUD functionality into the dashboard was seamless. Instead of rewriting code, I simply connected the existing module to the widgets; allowing MongoDB to dynamically fuel every interaction.
